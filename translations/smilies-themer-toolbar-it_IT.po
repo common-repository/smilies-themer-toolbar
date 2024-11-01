@@ -1,0 +1,131 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Frasten
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Smilies Themer Toolbar 2.0devel\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/smilies-themer-toolbar\n"
+"POT-Creation-Date: 2011-03-23 10:55+0100\n"
+"PO-Revision-Date: 2010-04-11 06:43+0100\n"
+"Last-Translator: Frasten <frasten@gmail.com>\n"
+"Language-Team: Italiano <frasten@gmail.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2010-04-09 01:24+0000\n"
+"X-Generator: Launchpad (build Unknown)\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-Language: Italian\n"
+
+#: smilies-themer-toolbar.php:81 smilies-themer-toolbar.php:83
+msgid "Smilies Toolbar"
+msgstr "Barra emoticon"
+
+#: smilies-themer-toolbar.php:105
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: smilies-themer-toolbar.php:194
+msgid "Smilies Themer Toolbar settings"
+msgstr "Impostazioni di Smilies Themer Toolbar"
+
+#: smilies-themer-toolbar.php:197
+#, php-format
+msgid "Smilies Themer is not installed. Download it <a href='%s'>here</a>."
+msgstr "Smilies Themer non è installato. Scaricalo <a href='%s'>qui</a>."
+
+#: smilies-themer-toolbar.php:202
+#, php-format
+msgid ""
+"Smilies Themer is installed but not active. <a href='%s'>Activate it now</a>."
+msgstr ""
+"Smilies Themer è installato ma inattivo. <a href='%s'>Attivalo ora</a>."
+
+#: smilies-themer-toolbar.php:209
+msgid "Error while fetching smilies list."
+msgstr "Errore nella ricezione della lista delle emoticon."
+
+#: smilies-themer-toolbar.php:215
+msgid "Drag and drop the smilies to change their order."
+msgstr "Trascina le emoticon per cambiarne l'ordine."
+
+#: smilies-themer-toolbar.php:217
+msgid ""
+"Move them to the bottom box to hide them: the user can show them by clicking "
+"on <em>More</em> in the toolbar."
+msgstr ""
+"Muovile nel contenitore di sotto per nasconderle: l'utente le può mostrare "
+"cliccando su <em>Altri</em> nella barra."
+
+#: smilies-themer-toolbar.php:219
+msgid "Note: the order is saved on every change."
+msgstr "Nota: l'ordine viene salvato ad ogni modifica."
+
+#: smilies-themer-toolbar.php:225
+msgid "Saving..."
+msgstr "Salvataggio..."
+
+#: smilies-themer-toolbar.php:228
+msgid "Visible smilies:"
+msgstr "Emoticon visibili:"
+
+#: smilies-themer-toolbar.php:236
+msgid "Hidden smilies:"
+msgstr "Emoticon nascoste:"
+
+#: smilies-themer-toolbar.php:244
+msgid "If you want to reset your smiley theme's order, click here:"
+msgstr "Se vuoi azzerare l'ordine delle emoticon nel tema scelto, clicca qui:"
+
+#: smilies-themer-toolbar.php:248
+msgid "Reset order"
+msgstr "Azzera l'ordine"
+
+#: smilies-themer-toolbar.php:404
+msgid "Smilies"
+msgstr "Emoticon"
+
+#: smilies-themer-toolbar.php:422
+msgid "Manage smilies options..."
+msgstr "Opzioni delle emoticon..."
+
+#: smilies-themer-toolbar.php:460 smilies-themer-toolbar.php:574
+msgid "More &raquo;"
+msgstr "Altri &raquo;"
+
+#: smilies-themer-toolbar.php:510
+msgid "Order was not reset: you don&lsquo;t have the priviledges to do this!"
+msgstr "L'ordine non è stato reimpostato: non hai i permessi per farlo!"
+
+#: smilies-themer-toolbar.php:575
+msgid "&laquo; Less"
+msgstr "&laquo; di meno"
+
+#. Plugin Name of an extension
+msgid "Smilies Themer Toolbar"
+msgstr "Smilies Themer Toolbar"
+
+#. Plugin URI of an extension
+msgid "http://polpoinodroidi.com/wordpress-plugins/smilies-themer-toolbar/"
+msgstr "http://polpoinodroidi.com/wordpress-plugins/smilies-themer-toolbar/"
+
+#. Description of an extension
+msgid ""
+"Adds a toolbar to easily add to comments and posts your smilies managed by "
+"<a href='http://wordpress.org/extend/plugins/smilies-themer/'>Smilies "
+"Themer</a> plugin."
+msgstr ""
+"Aggiunge una barra per inserire facilmente le emoticon gestite dal plugin <a "
+"href='http://wordpress.org/extend/plugins/smilies-themer/'>Smilies Themer</"
+"a> nei commenti e negli articoli."
+
+#. Author of an extension
+msgid "Frasten"
+msgstr "Frasten"
+
+#. Author URI of an extension
+msgid "http://polpoinodroidi.com"
+msgstr "http://polpoinodroidi.com"

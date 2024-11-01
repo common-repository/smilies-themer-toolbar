@@ -1,0 +1,122 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Frasten
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Smilies Themer Toolbar 2.0.7\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/smilies-themer-toolbar\n"
+"POT-Creation-Date: 2011-03-23 10:55+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: smilies-themer-toolbar.php:81 smilies-themer-toolbar.php:83
+msgid "Smilies Toolbar"
+msgstr ""
+
+#: smilies-themer-toolbar.php:105
+msgid "Settings"
+msgstr ""
+
+#: smilies-themer-toolbar.php:194
+msgid "Smilies Themer Toolbar settings"
+msgstr ""
+
+#: smilies-themer-toolbar.php:197
+#, php-format
+msgid "Smilies Themer is not installed. Download it <a href='%s'>here</a>."
+msgstr ""
+
+#: smilies-themer-toolbar.php:202
+#, php-format
+msgid ""
+"Smilies Themer is installed but not active. <a href='%s'>Activate it now</a>."
+msgstr ""
+
+#: smilies-themer-toolbar.php:209
+msgid "Error while fetching smilies list."
+msgstr ""
+
+#: smilies-themer-toolbar.php:215
+msgid "Drag and drop the smilies to change their order."
+msgstr ""
+
+#: smilies-themer-toolbar.php:217
+msgid ""
+"Move them to the bottom box to hide them: the user can show them by clicking "
+"on <em>More</em> in the toolbar."
+msgstr ""
+
+#: smilies-themer-toolbar.php:219
+msgid "Note: the order is saved on every change."
+msgstr ""
+
+#: smilies-themer-toolbar.php:225
+msgid "Saving..."
+msgstr ""
+
+#: smilies-themer-toolbar.php:228
+msgid "Visible smilies:"
+msgstr ""
+
+#: smilies-themer-toolbar.php:236
+msgid "Hidden smilies:"
+msgstr ""
+
+#: smilies-themer-toolbar.php:244
+msgid "If you want to reset your smiley theme's order, click here:"
+msgstr ""
+
+#: smilies-themer-toolbar.php:248
+msgid "Reset order"
+msgstr ""
+
+#: smilies-themer-toolbar.php:404
+msgid "Smilies"
+msgstr ""
+
+#: smilies-themer-toolbar.php:422
+msgid "Manage smilies options..."
+msgstr ""
+
+#: smilies-themer-toolbar.php:460 smilies-themer-toolbar.php:574
+msgid "More &raquo;"
+msgstr ""
+
+#: smilies-themer-toolbar.php:510
+msgid "Order was not reset: you don&lsquo;t have the priviledges to do this!"
+msgstr ""
+
+#: smilies-themer-toolbar.php:575
+msgid "&laquo; Less"
+msgstr ""
+
+#. Plugin Name of an extension
+msgid "Smilies Themer Toolbar"
+msgstr ""
+
+#. Plugin URI of an extension
+msgid "http://polpoinodroidi.com/wordpress-plugins/smilies-themer-toolbar/"
+msgstr ""
+
+#. Description of an extension
+msgid ""
+"Adds a toolbar to easily add to comments and posts your smilies managed by "
+"<a href='http://wordpress.org/extend/plugins/smilies-themer/'>Smilies "
+"Themer</a> plugin."
+msgstr ""
+
+#. Author of an extension
+msgid "Frasten"
+msgstr ""
+
+#. Author URI of an extension
+msgid "http://polpoinodroidi.com"
+msgstr ""
